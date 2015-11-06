@@ -1,0 +1,184 @@
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\bin\Debug\App.xbf
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\bin\Debug\MainPage.xbf
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\bin\Debug\App1.xr.xml
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\bin\Debug\App1.exe
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\bin\Debug\App1.pdb
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\bin\Debug\resources.pri
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\bin\Debug\AppxManifest.xml
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\bin\Debug\App1.build.appxrecipe
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\App.g.i.cs
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\App.g.cs
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\MainPage.g.i.cs
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\MainPage.g.cs
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\XamlTypeInfo.g.cs
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\App.xaml
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\MainPage.xaml
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\App.xbf
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\MainPage.xbf
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\XamlSaveStateFile.xml
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\App1.exe
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\App1.pdb
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\priconfig.xml
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\priconfig.xml.intermediate
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\layout.resfiles
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\layout.resfiles.intermediate
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\resources.resfiles
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\resources.resfiles.intermediate
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\pri.resfiles
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\pri.resfiles.intermediate
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\qualifiers.txt
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\qualifiers.txt.intermediate
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\ProjectArchitectures.txt
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\create.g.i.cs
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\create.g.cs
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\create.xaml
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\create.xbf
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\bin\Debug\create.xbf
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\bin\Debug\waiting.xbf
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\waiting.g.i.cs
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\waiting.g.cs
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\waiting.xaml
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\waiting.xbf
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\bin\Debug\map.xbf
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\bin\Debug\System.Device.dll
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\map.g.i.cs
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\map.g.cs
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\map.xaml
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\map.xbf
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\System.Device\en-US\System.Device.resw
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\App1.csproj.GenerateResource.Cache
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\System.Device.pri
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\System.Device\qualifiers.txt
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\bin\Debug\Newtonsoft.Json.dll
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\bin\Debug\Newtonsoft.Json.xml
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\join.g.i.cs
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\join.g.cs
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\join.xaml
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\join.xbf
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\bin\Debug\join.xbf
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\bin\Debug\membermap.xbf
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\membermap.g.i.cs
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\membermap.g.cs
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\membermap.xaml
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\membermap.xbf
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\bin\Debug\splash.xbf
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\splash.g.i.cs
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\splash.g.cs
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\splash.xaml
+c:\users\pratik kapoor\documents\visual studio 2015\Projects\App1\App1\obj\Debug\splash.xbf
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\App.g.i.cs
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\App.g.cs
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\create.g.i.cs
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\create.g.cs
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\join.g.i.cs
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\join.g.cs
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\MainPage.g.i.cs
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\MainPage.g.cs
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\map.g.i.cs
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\map.g.cs
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\membermap.g.i.cs
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\membermap.g.cs
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\splash.g.i.cs
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\splash.g.cs
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\waiting.g.i.cs
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\waiting.g.cs
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\App.xaml
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\create.xaml
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\join.xaml
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\MainPage.xaml
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\map.xaml
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\membermap.xaml
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\splash.xaml
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\waiting.xaml
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\App.xbf
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\create.xbf
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\join.xbf
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\MainPage.xbf
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\map.xbf
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\membermap.xbf
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\splash.xbf
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\waiting.xbf
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\App1.exe
+C:\Users\Paradox\Desktop\App1\App1\obj\Debug\App1.pdb
+G:\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+G:\App1\App1\obj\Debug\App.g.i.cs
+G:\App1\App1\obj\Debug\App.g.cs
+G:\App1\App1\obj\Debug\create.g.i.cs
+G:\App1\App1\obj\Debug\create.g.cs
+G:\App1\App1\obj\Debug\join.g.i.cs
+G:\App1\App1\obj\Debug\join.g.cs
+G:\App1\App1\obj\Debug\MainPage.g.i.cs
+G:\App1\App1\obj\Debug\MainPage.g.cs
+G:\App1\App1\obj\Debug\map.g.i.cs
+G:\App1\App1\obj\Debug\map.g.cs
+G:\App1\App1\obj\Debug\membermap.g.i.cs
+G:\App1\App1\obj\Debug\membermap.g.cs
+G:\App1\App1\obj\Debug\splash.g.i.cs
+G:\App1\App1\obj\Debug\splash.g.cs
+G:\App1\App1\obj\Debug\waiting.g.i.cs
+G:\App1\App1\obj\Debug\waiting.g.cs
+G:\App1\App1\obj\Debug\XamlTypeInfo.g.cs
+G:\App1\App1\obj\Debug\App.xaml
+G:\App1\App1\obj\Debug\create.xaml
+G:\App1\App1\obj\Debug\join.xaml
+G:\App1\App1\obj\Debug\MainPage.xaml
+G:\App1\App1\obj\Debug\map.xaml
+G:\App1\App1\obj\Debug\membermap.xaml
+G:\App1\App1\obj\Debug\splash.xaml
+G:\App1\App1\obj\Debug\waiting.xaml
+G:\App1\App1\obj\Debug\App.xbf
+G:\App1\App1\obj\Debug\create.xbf
+G:\App1\App1\obj\Debug\join.xbf
+G:\App1\App1\obj\Debug\MainPage.xbf
+G:\App1\App1\obj\Debug\map.xbf
+G:\App1\App1\obj\Debug\membermap.xbf
+G:\App1\App1\obj\Debug\splash.xbf
+G:\App1\App1\obj\Debug\waiting.xbf
+G:\App1\App1\obj\Debug\XamlSaveStateFile.xml
+G:\App1\App1\obj\Debug\App1.exe
+G:\App1\App1\obj\Debug\App1.pdb
+G:\App1\App1\bin\Debug\App.xbf
+G:\App1\App1\bin\Debug\create.xbf
+G:\App1\App1\bin\Debug\join.xbf
+G:\App1\App1\bin\Debug\MainPage.xbf
+G:\App1\App1\bin\Debug\map.xbf
+G:\App1\App1\bin\Debug\membermap.xbf
+G:\App1\App1\bin\Debug\splash.xbf
+G:\App1\App1\bin\Debug\waiting.xbf
+G:\App1\App1\bin\Debug\App1.xr.xml
+G:\App1\App1\bin\Debug\App1.exe
+G:\App1\App1\bin\Debug\App1.pdb
+G:\App1\App1\bin\Debug\resources.pri
+G:\App1\App1\bin\Debug\AppxManifest.xml
+G:\App1\App1\bin\Debug\App1.build.appxrecipe
+G:\App1\App1\bin\Debug\Newtonsoft.Json.dll
+G:\App1\App1\bin\Debug\Newtonsoft.Json.xml
+G:\App1\App1\obj\Debug\System.Device\en-US\System.Device.resw
+G:\App1\App1\obj\Debug\App1.csproj.GenerateResource.Cache
+G:\App1\App1\obj\Debug\System.Device.pri
+G:\App1\App1\obj\Debug\System.Device\qualifiers.txt
+G:\App1\App1\obj\Debug\priconfig.xml
+G:\App1\App1\obj\Debug\priconfig.xml.intermediate
+G:\App1\App1\obj\Debug\layout.resfiles
+G:\App1\App1\obj\Debug\layout.resfiles.intermediate
+G:\App1\App1\obj\Debug\resources.resfiles
+G:\App1\App1\obj\Debug\resources.resfiles.intermediate
+G:\App1\App1\obj\Debug\pri.resfiles
+G:\App1\App1\obj\Debug\pri.resfiles.intermediate
+G:\App1\App1\obj\Debug\qualifiers.txt
+G:\App1\App1\obj\Debug\qualifiers.txt.intermediate
+G:\App1\App1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\App1\App1\obj\Debug\ProjectArchitectures.txt
+G:\App1\App1\obj\Debug\System.Device\layout.resfiles
+G:\App1\App1\obj\Debug\System.Device\layout.resfiles.intermediate
+G:\App1\App1\obj\Debug\System.Device\Resources.resfiles
+G:\App1\App1\obj\Debug\System.Device\Resources.resfiles.intermediate
+G:\App1\App1\obj\Debug\System.Device\pri.resfiles
+G:\App1\App1\obj\Debug\System.Device\pri.resfiles.intermediate
+G:\App1\App1\obj\Debug\System.Device\priconfig.xml
+G:\App1\App1\obj\Debug\System.Device\priconfig.xml.intermediate

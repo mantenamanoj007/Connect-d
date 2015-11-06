@@ -1,0 +1,7 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\pratik kapoor\documents\visual studio 2015\projects\app1\app1\obj\debug\intermediatexaml\app1.exe" HashGuid="9655f332-5cd5-889c-e1c4-1e212005ddc2" />
+    <ReferenceAssembly PathName="g:\app1\packages\newtonsoft.json.7.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\newtonsoft.json.dll" HashGuid="86223907-5808-be51-71b4-c872f8140e29" />
+    <ReferenceAssembly PathName="g:\app1\app1\bin\debug\system.device.dll" HashGuid="01cde8e8-f4ab-47d8-1aab-56c05ecde928" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

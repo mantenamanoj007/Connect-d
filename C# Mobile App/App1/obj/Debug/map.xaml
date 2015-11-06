@@ -1,0 +1,27 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Maps="using:Windows.UI.Xaml.Controls.Maps"
+    xmlns:maps="clr-namespace:Microsoft.Phone.Maps.Controls;assembly=Microsoft.Phone.Maps"
+    xmlns:maptk="clr-namespace:Microsoft.Phone.Maps.Toolkit;assembly=Microsoft.Phone.Controls.Toolkit"
+    x:Class="App1.map"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+
+        <Rectangle HorizontalAlignment="Left" Height="785" Margin="-101,-46,-25,-99" Stroke="Black" VerticalAlignment="Top" Width="526">
+        	<Rectangle.Fill>
+        		<ImageBrush Stretch="Fill" ImageSource="Assets/bg.png"/>
+        	</Rectangle.Fill>
+        </Rectangle>
+
+        <Maps:MapControl x:Name="map1" MapServiceToken="RandomToken" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" Height="561" Width="400"/>
+        <Button x:ConnectionId='1' x:Name="button" Content="End Session" HorizontalAlignment="Left" Margin="10,566,0,0" VerticalAlignment="Top" Width="380" Height="73"                      Foreground="#FF3B97D3" BorderBrush="#FF3B97D3"/>
+
+    </Grid>
+</Page>
+

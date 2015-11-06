@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PRATIK</Machine>
+    <WindowsUser>Pratik Kapoor</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1857a3c5-ff0d-4bba-a103-a725ed3fdb99</PackageIdentityName>
+    <IntermediateOutputPath>G:\App1\App1\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="G:\App1\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="G:\App1\App1\bin\Debug\App1.exe">
+      <PackagePath>App1.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\packages\Newtonsoft.Json.7.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\bin\Debug\System.Device.dll">
+      <PackagePath>System.Device.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\Assets\bg.png">
+      <PackagePath>Assets\bg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\Assets\bluedot.png">
+      <PackagePath>Assets\bluedot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\Assets\hello.png">
+      <PackagePath>Assets\hello.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\Assets\reddot.png">
+      <PackagePath>Assets\reddot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\Toolkit.Content\ApplicationBar.Add.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Add.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\Toolkit.Content\ApplicationBar.Cancel.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Cancel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\Toolkit.Content\ApplicationBar.Check.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Check.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\Toolkit.Content\ApplicationBar.Delete.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Delete.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\Toolkit.Content\ApplicationBar.Select.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Select.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\README_FIRST.txt">
+      <PackagePath>README_FIRST.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\bin\Debug\App1.xr.xml">
+      <PackagePath>App1.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\bin\Debug\create.xbf">
+      <PackagePath>create.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\bin\Debug\join.xbf">
+      <PackagePath>join.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\bin\Debug\map.xbf">
+      <PackagePath>map.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\bin\Debug\membermap.xbf">
+      <PackagePath>membermap.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\bin\Debug\splash.xbf">
+      <PackagePath>splash.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\bin\Debug\waiting.xbf">
+      <PackagePath>waiting.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\App1\App1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
